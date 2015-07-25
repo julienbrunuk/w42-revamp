@@ -1,0 +1,607 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>while42</name>
+		<description><![CDATA[List of while42 chapters around the world<br>http://www.while42.org]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>0. San Francisco, CA</name>
+				<description><![CDATA[<img src="http://farm9.staticflickr.com/8351/8277834621_6d5cd7986d_z.jpg" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://farm9.staticflickr.com/8351/8277834621_6d5cd7986d_z.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.419416,37.77493,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1. Paris</name>
+				<description><![CDATA[<img src="http://farm8.staticflickr.com/7386/9218184500_2e8e538342_z.jpg" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://farm8.staticflickr.com/7386/9218184500_2e8e538342_z.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.3522220000000003,48.856614,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2. New York, NY</name>
+				<description><![CDATA[<img src="http://farm9.staticflickr.com/8243/8572667262_f8cba606f3_z.jpg" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://farm9.staticflickr.com/8243/8572667262_f8cba606f3_z.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.005973,40.714353,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3. Miami, FL</name>
+				<description><![CDATA[<img src="http://farm8.staticflickr.com/7415/9050451575_4ae0ff0113_z.jpg" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://farm8.staticflickr.com/7415/9050451575_4ae0ff0113_z.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-80.226439,25.788969,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4. Singapore</name>
+				<description><![CDATA[<img src="http://farm4.staticflickr.com/3806/9372559708_41ca1ede4b_z.jpg" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://farm4.staticflickr.com/3806/9372559708_41ca1ede4b_z.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>103.851013,1.278857,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5. Bucharest</name>
+				<description><![CDATA[<img src="http://farm3.staticflickr.com/2877/9186347862_dfb5982083_z.jpg" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://farm3.staticflickr.com/2877/9186347862_dfb5982083_z.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>26.103889,44.4325,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>6. Istanbul</name>
+				<description><![CDATA[<img src="http://farm4.staticflickr.com/3711/9269942997_809ff5a11a_z.jpg" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://farm4.staticflickr.com/3711/9269942997_809ff5a11a_z.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>28.97696,41.00527,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7. Beijing</name>
+				<description><![CDATA[<img src="http://farm4.staticflickr.com/3698/9576173373_66523f287d_n.jpg" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://farm4.staticflickr.com/3698/9576173373_66523f287d_n.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>116.407526,39.90403,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>8. Montreal, QC</name>
+				<description><![CDATA[<img src="http://farm6.staticflickr.com/5508/9989680985_21e4f49430_n.jpg" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://farm6.staticflickr.com/5508/9989680985_21e4f49430_n.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-73.55399200000001,45.50867,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>9. Lausanne</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.633597,46.519962,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10. Los Angeles, CA</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=34.052234,-118.243685&thumb=0" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=34.052234,-118.243685&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-118.24368499999999,34.052234,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11. Shanghai</name>
+				<description><![CDATA[China]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>121.473704,31.230393,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12. Toulouse</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=43.604652,1.444209&thumb=0" height="200" width="auto" /><br><br>France]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=43.604652,1.444209&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.444209,43.604652,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13. Sydney</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=-33.867487,151.206990&thumb=0" height="200" width="auto" /><br><br>Australia]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=-33.867487,151.206990&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>151.20699,-33.867487,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14. London</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=51.511214,-0.119824&thumb=0" height="200" width="auto" /><br><br>UK]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=51.511214,-0.119824&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.119824,51.511214,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15. Dubai</name>
+				<description><![CDATA[United Arab Emirates]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>55.307485,25.271139,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16. Nantes</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=47.218371,-1.553621&thumb=0" height="200" width="auto" /><br><br>France]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=47.218371,-1.553621&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.553621,47.218371,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17. Lyon</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=45.764043,4.835659&thumb=0" height="200" width="auto" /><br><br>France]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=45.764043,4.835659&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.835659,45.764043,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18. Montpellier</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=43.610769,3.876716&thumb=0" height="200" width="auto" /><br><br>France]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=43.610769,3.876716&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.876716,43.610769,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19. Marseille</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=43.296482,5.369780&thumb=0" height="200" width="auto" /><br><br>France]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=43.296482,5.369780&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.36978,43.296482,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20. Dublin</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=53.349805,-6.260310&thumb=0" height="200" width="auto" /><br><br>Ireland]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=53.349805,-6.260310&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-6.26031,53.34980500000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21. San Diego, CA</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=32.715329,-117.157255&thumb=0" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=32.715329,-117.157255&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-117.157255,32.715329,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22. Amsterdam</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=52.370216,4.895168&thumb=0" height="200" width="auto" /><br><br>The Netherlands]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=52.370216,4.895168&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.895168,52.370216,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23. Berlin</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=52.520007,13.404954&thumb=0" height="200" width="auto" /><br><br>Germany]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=52.520007,13.404954&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>13.404954,52.520007,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>24. Melbourne VIC</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=-37.814107,144.963280&thumb=0" height="200" width="auto" /><br><br>Australia]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=-37.814107,144.963280&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>144.96328,-37.814107,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>25. Boston, MA</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=42.358431,-71.059773&thumb=0" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=42.358431,-71.059773&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.059773,42.358431,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>26. Palo Alto, CA</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=37.441883,-122.143020&thumb=0" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=37.441883,-122.143020&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.14302000000002,37.441883,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>27. Seoul</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=37.566535,126.977969&thumb=0" height="200" width="auto" /><br><br>South Korea]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=37.566535,126.977969&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>126.977969,37.566535,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>28. Guangzhou, Guangdong</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=23.129163,113.264435&thumb=0" height="200" width="auto" /><br><br>China]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=23.129163,113.264435&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>113.264435,23.129163000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>29. Tokyo</name>
+				<description><![CDATA[<img src="https://cbks0.google.com/cbk?output=thumbnail&w=90&h=68&ll=35.689488,139.691706&thumb=0" height="200" width="auto" /><br><br>Japan]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=35.689488,139.691706&amp;thumb=0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>139.691706,35.689488,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30. Ho Chi Minh City</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>106.6296638,10.8230989,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>31. Taipei City</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>121.56542680000005,25.0329636,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>32. Tel Aviv District</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>34.80721649999998,32.0929075,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>32. Seattle</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.3320708,47.6062095,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>34. Strasbourg</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.752111300000025,48.5734053,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>35. Bangkok</name>
+				<description><![CDATA[<img src="https://pbs.twimg.com/media/B9ZHIGyCUAAaSCX.jpg" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://pbs.twimg.com/media/B9ZHIGyCUAAaSCX.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>100.50176510000006,13.7563309,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>36. Hong Kong</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>114.17469499999994,22.2783151,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>37. Quebec City</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-71.242796,46.8032826,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>38. Auckland</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>174.76333150000005,-36.8484597,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>39. Reunion</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>55.536384,-21.115141,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>40. Tangier</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-5.833954299999959,35.7594651,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>41. Oslo</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>10.752245399999993,59.913868799999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>42. Wellington</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>174.77623600000004,-41.2864603,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>43. Luxembourg</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.131934600000022,49.61162100000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>44. Washington</name>
+				<styleUrl>#icon-61-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-77.03687070000001,38.9071923,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-61-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-61-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-61'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-61-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-61-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-61-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-61-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-61-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-61-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-61-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
